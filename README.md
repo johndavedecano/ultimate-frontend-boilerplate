@@ -3,6 +3,8 @@
 
 The easiest to use frontend starter kit available in the galaxy.
 
+![My Image](https://raw.github.com/johndavedecano/ultimate-frontend-boilerplate/master/screenshot.jpg)
+
 ## Features
 
   * Pug-Sass ready.
