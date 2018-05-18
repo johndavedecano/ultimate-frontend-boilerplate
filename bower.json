@@ -1,0 +1,21 @@
+{
+  "name": "html",
+  "homepage": "https://github.com/jonathan-bird/wattwatchers",
+  "authors": [
+    "John Dave Decano <johndavedecano@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "js/vendor/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
