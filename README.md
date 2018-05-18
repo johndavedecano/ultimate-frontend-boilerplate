@@ -3,6 +3,7 @@
 
 ![Travis](https://travis-ci.org/johndavedecano/ultimate-frontend-boilerplate.svg?branch=master)
 ![Downloads](https://img.shields.io/github/downloads/johndavedecano/ultimate-frontend-boilerplate/total.svg)
+![Forks](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork)
 The easiest to use frontend starter kit available in the galaxy.
 
 ![My Image](https://raw.github.com/johndavedecano/ultimate-frontend-boilerplate/master/screenshot.jpg)
